@@ -13,12 +13,12 @@
     "CHIRIMEN",
     "webgpio"
   ],
-  "homepage": "https://github.com/club-wot/WebGPIO",
-  "bugs": "https://github.com/club-wot/WebGPIO/issues",
+  "homepage": "https://github.com/chirimen-oh/WebGPIO",
+  "bugs": "https://github.com/chirimen-oh/WebGPIO/issues",
   "author": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/club-wot/WebGPIO.git"
+    "url": "https://github.com/chirimen-oh/WebGPIO.git"
   },
   "license": "MIT",
   "devDependencies": {

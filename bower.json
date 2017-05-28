@@ -2,7 +2,7 @@
   "name": "webgpio",
   "description": "WebGPIO and WebI2C API polyfill",
   "authors": [
-    "club-wot"
+    "chirimen-oh"
   ],
   "license": "MIT",
   "keywords": [
@@ -10,7 +10,7 @@
     "webgpio",
     "webi2c"
   ],
-  "homepage": "https://github.com/club-wot/WebGPIO",
+  "homepage": "https://github.com/chirimen-oh/WebGPIO",
   "moduleType": [],
   "main": [
     "dist/webgpio.min.js",
