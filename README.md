@@ -2,7 +2,7 @@
 
 |service|status|
 |:--|:--|
-| Build Status |[![Build Status](https://travis-ci.org/club-wot/WebGPIO.svg)](https://travis-ci.org/club-wot/WebGPIO) |
+| Build Status |[![Build Status](https://travis-ci.org/chirimen-oh/WebGPIO.svg)](https://travis-ci.org/chirimen-oh/WebGPIO) |
 | Dependency Status |[![Dependency Status](https://gemnasium.com/badges/github.com/chirimen-oh/WebGPIO.svg)](https://gemnasium.com/github.com/chirimen-oh/WebGPIO)|
 | Code Covoiturage|[![Coverage Status](https://coveralls.io/repos/github/chirimen-oh/WebGPIO/badge.svg?branch=draft-20160125)](https://coveralls.io/github/chirimen-oh/WebGPIO?branch=draft-20160125)|
 

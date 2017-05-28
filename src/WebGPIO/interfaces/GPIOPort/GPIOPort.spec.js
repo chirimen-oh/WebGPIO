@@ -63,7 +63,10 @@ describe('GPIOPort', () => {
       });
     });
   });
-  xdescribe('unexport');
+
+  xdescribe('unexport', ()=> {
+    it('spec...');
+  });
 
   describe('read', ()=> {
     beforeEach(done=> port.export('in').then(done));
