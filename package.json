@@ -1,7 +1,7 @@
 {
-  "name": "webgpio",
+  "name": "polyfills",
   "version": "0.3.0",
-  "description": "WebGPIO API polyfill",
+  "description": "WebGPIO and WebI2C API polyfill",
   "main": [
     "dist/webgpio.min.js",
     "dist/webi2c.min.js"
@@ -11,7 +11,8 @@
   },
   "keywords": [
     "CHIRIMEN",
-    "webgpio"
+    "webgpio",
+    "webi2c"
   ],
   "homepage": "https://github.com/chirimen-oh/WebGPIO",
   "bugs": "https://github.com/chirimen-oh/WebGPIO/issues",

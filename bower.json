@@ -2,6 +2,7 @@
   "name": "webgpio",
   "description": "WebGPIO and WebI2C API polyfill",
   "authors": [
+    "club-wot",
     "chirimen-oh"
   ],
   "license": "MIT",

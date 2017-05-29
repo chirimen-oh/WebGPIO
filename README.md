@@ -224,6 +224,6 @@ gulp demo
 
 ## License
 
- Copyright (c) 2017 chirimen-oh team and other contributors
+ Copyright (c) 2016 club-wot team and chirimen-oh team , other contributors
 
  Licensed under the MIT License
