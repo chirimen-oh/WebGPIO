@@ -85,7 +85,7 @@ function gpioOnMessage(e) {
       navigator.mozGpio.setValue(data.portNumber, data.value);
       break;
     case 'gpio.getValue':
-      navigator.mozGpio.getValue(data.portNumber).then((value)=> {
+      Promise.resolve(navigator.mozGpio.getValue(data.portNumber)).then((value)=> {
 
         postMessage(json2abWorker({
           method: `${data.method}.${data.portNumber}`,
