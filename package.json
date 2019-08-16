@@ -44,6 +44,10 @@
     "karma-jasmine": "^0.3.8",
     "require-dir": "^0.3.2",
     "run-sequence": "^1.2.2",
-    "uglify-js": "^2.8.29"
+    "uglify-js": "^2.8.29",
+    "webpack": "^4.39.2"
+  },
+  "dependencies": {
+    "typescript": "^3.5.3"
   }
 }
